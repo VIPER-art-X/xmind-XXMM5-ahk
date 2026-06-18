@@ -5,7 +5,7 @@
 This Setup will allow you: 
  - To learn through patterns.
  - Utilize both your eyes and ears in learning.
- - Use your ears ONLY(in future guidance updates).
+ - Use your ears ONLY.
 
 It is recommend to test the script yourself by opening an .xmind file like in examples/Test.xmind
 
