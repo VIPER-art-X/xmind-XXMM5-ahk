@@ -9,8 +9,8 @@ This Setup will allow you:
 
 It is recommend to test the script yourself by opening an .xmind file like in examples/Test.xmind
 
-###The Main script for Learning through English language is XXMM5.exe
-###The other script for learning through Japanese language is XMM5_Japanese_Only_Haruka.exe
+### The Main script for Learning through English language is XXMM5.exe
+### The other script for learning through Japanese language is XMM5_Japanese_Only_Haruka.exe
 
 #### <span style="color:red">MAJOR FLAW</span>: This setup requires you to create mindmaps in order for you to use this setup, in other words, this setup is a tool.
 
