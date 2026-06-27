@@ -345,7 +345,7 @@ Only few other tooltip messages aren't shown within the video.
  - Page up increases the balcon speed by 1 for every click on it, and Page down decreases balcon speed by 1 for every click on it.
 - When Loop Mode is ON then any change in the speed of the balcon will be shown in next iteration of Loop.
 
-- Maximum speed is 10 and Minimum speed is 1.
+- Maximum speed is 10 and Minimum speed is -10.
 
 
 ### F12 TTS LOCK:
