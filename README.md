@@ -9,10 +9,12 @@ This Setup will allow you:
 
 It is recommend to test the script yourself by opening an .xmind file like in examples/Test.xmind
 
-#### <span style="color:red">MAJOR FLAW</span>: This setup requires you to create mindmaps in order for you to use this setup, in other words, this setup is a tool.
-- You can check out an actual & practical example in "Practical example" folder.
+###The Main script for Learning through English language is XXMM5.exe
+###The other script for learning through Japanese language is XMM5_Japanese_Only_Haruka.exe
 
-- Or after figuring out this setup and all the features of the script + xmind app, create your own mind maps that will be compatible with this ahk setup.
+#### <span style="color:red">MAJOR FLAW</span>: This setup requires you to create mindmaps in order for you to use this setup, in other words, this setup is a tool.
+
+- After figuring out this setup and all the features of the script + xmind app, create your own mind maps that will be compatible with this ahk setup.
 
 
 ***
@@ -213,14 +215,8 @@ Before starting make sure that a heading note opening key is F8 and not Ctrl+Shi
 
  - When pressed again will OFF the shift scroll feature and the scroll wheel revert back to its original feature which is up and down movement across the canvas of xmind app. 
 
- #### ➤ **Middle Mouse button:**
- - When pressed will activate zoom in/out feature using scroll wheel only **instead of using keyboard** ctrl + scroll wheel.
-
- - When pressed again will OFF the zoom in/out feature and will revert the scroll wheel back into its original form which is up and down movement across the canvas of xmind app.
-
- - **Extra default Feature**: If You press and Hold for exactly 0.3 second then **'auto-scroll'** will activate. its deactivation is just like any other "auto-scroll" in other apps.
-
- - Xmind app losing focus will also **automatically OFF this feature.**
+ #### ➤ **Middle Mouse button and Scroll Wheel:**
+ - Both the scroll wheel and the Middle Mouse button has the default settings and is not interfered by the script is any way.
 
  #### ➤ **Left and Right mouse buttons:**
 
@@ -250,6 +246,13 @@ Before starting make sure that a heading note opening key is F8 and not Ctrl+Shi
  {My mouse sens in setting is 7}
 - When a heading is selected, press and hold Right Mouse button and moving it left will send left arrow key, moving it right will send right arrow key, moving it up will send up arrow key and moving it down will send down arrow key from the script directly to the pc **without using keyboard.** 
   - Reason: To easily move on a mind map **without having to press any arrows key in keyboard.**
+ 
+#### ➤ **Middle Mouse Scroll Wheel:**
+ -  Will automatically activate zoom in/out feature using scroll wheel only **instead of using keyboard** ctrl + scroll wheel.
+
+ - When xbutton 1 is OFF then this zoom in/out will be disabled and then the xbutton1 OFF features will take place.
+
+ - Xmind app losing focus will also **automatically OFF this feature.**
 
 ### ➤ **Middle Mouse Button: Heading tts starter/stopper**
 <pre>Fruits
