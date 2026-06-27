@@ -126,7 +126,7 @@ If you dont modify the output sound, you will get bored of the default balcon so
 ***
 ## TroubleShooting and checking Setup
 - Not hearing any tts:
-  - Just press F12 ON and F3 ON then start a tts then just swtich devices within lighthost/prefernces/Audio settings like:
+  - Just press F3 ON then start a tts then just swtich devices within lighthost/prefernces/Audio settings like:
     -  In OUTPUT, change your default(Headphones) with other option and then back to your default(Headphones) device, while a tts is running in the background.
     - In Input, Do the same and revert back to "CABLE Output"
 
@@ -164,7 +164,7 @@ So when you run the script:
  - F10: OFF 
 
  - F11: OFF
- - F12: OFF
+ - F12: ON
  - Page up/down: "Balcon speed: 5"
  - Balcon voice: Microsoft Eva Mobile
  - Balcon volume: 100
