@@ -1,0 +1,1 @@
+Place this 'sounds' folder at F:\XMIND TTS SYSTEM\sounds for sounds at xbutton 1 OFF and xbutton 1 ON event.
